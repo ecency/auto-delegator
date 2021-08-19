@@ -1,0 +1,16 @@
+{
+  "name": "auto-delegator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hiveio/dhive": "^1.0.1",
+    "event-stream": "^4.0.1",
+    "util": "^0.12.4"
+  }
+}
